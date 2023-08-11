@@ -3,12 +3,12 @@ entries:
   myapp1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-10T03:28:51.710230662-05:00"
+    created: "2023-08-11T04:15:07.782379366-05:00"
     description: A Helm chart for Kubernetes
     digest: c4c1cfc914a0048c5bd327866a090daf582344a6f2890687b2f5b56fe4033fc5
     name: myapp1
     type: application
     urls:
-    - https://github.com/divte86/helm-repo/myapp1-0.1.0.tgz
+    - https://divte86.github.io/helm-repo/myapp1-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-10T03:28:51.707026605-05:00"
+generated: "2023-08-11T04:15:07.778806632-05:00"
